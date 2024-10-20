@@ -25,7 +25,9 @@ git clone https://github.com/atharvabharambe/Face-Recognizer-using-OpenCV.git
 
 - Next Open the `Training.ipynb` file and run every cell (This will train the classifier as per your images and id's) 
 
-- Finally run the file named `Detection.ipynb` 
+- Finally run the file named `Detection.ipynb`
+
+- To terminate the session press ****'Enter'****
 
 ## Screenshots
 

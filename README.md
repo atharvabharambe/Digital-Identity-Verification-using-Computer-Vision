@@ -27,4 +27,9 @@ git clone https://github.com/atharvabharambe/Face-Recognizer-using-OpenCV.git
 
 - Finally run the file named `Detection.ipynb` 
 
+## Screenshots
+
+![App Screenshot](https://github.com/user-attachments/assets/aafb16b3-0cbe-40df-82dc-58e18f4af9df)
+
+![App Screenshot](https://github.com/user-attachments/assets/c9c4d4da-5800-4351-ad14-b208347a6ccb)
 
